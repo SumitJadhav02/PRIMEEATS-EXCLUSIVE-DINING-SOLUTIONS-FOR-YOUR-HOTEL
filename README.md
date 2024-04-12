@@ -1,46 +1,60 @@
 
 #### Some Screenshots for the project:
 - Home Page
+![home page 1](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/7b7251aa-7551-4a3f-9c4c-091ac0b2e5d8)
+![home page 4](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/c9187e98-fbe0-45d2-bdac-b5c27c9c513e)
+![home page 3](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/4fe212f0-0bc3-4915-bfba-c2714bec6134)
 
 - Login Page
+![login](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/642950b1-10c9-49ce-adad-f09fc709110b)
 
 - Register Page
+![register](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/fa3cca77-0c2c-49e4-bda7-6bddc4f8dbb8)
 
 - Category Wise Product Filter
+![break fast search](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/7100c73c-35a3-477b-a43b-86020d5ec335)
+![search for maharashtra food](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/e97992bb-bcd8-4c06-97c8-498f704659aa)
 
 - Cart Items
+![place order](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/7deb95b4-573e-4c5c-9317-97005186bfe4)
+
 
 - Credit Card Payment
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/990595ce-856c-46fe-8182-052a127d67b4)
+![card payment](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/f782dbe3-1afe-4d12-8ac0-6b77bc1012b8)
+
+
 - Order Details & Status
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/db8b4511-cac0-41df-930a-ef3bdebe5c24)
+![order placed](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/db8b5b74-61de-408d-b8df-86d01209fe09)
+
+
 - User Profile
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/aa22b0cd-726b-4e5c-85cd-5409b7fc5391)
+  ![user profile](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/b0f6807f-c6ec-425d-880f-93c57a896df9)
+
+
 
 - Admin Home
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/0e909800-b9a2-4ece-884c-24cdc8ca931a)
-- Stock Items
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/e94e519b-e65c-4f51-8b37-e1b555208f2d)
-- Shipped Items
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/e34de1d9-91ae-4d3b-a38e-7d78aae1f410)
-- Recent Orders yet to be shipped
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/ed2df621-3256-41bd-8739-d3872474403c)
-- Add Product to the stock
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/3f38b7cf-c120-4523-abec-cdb2238c17b0)
-- Remove Product from the stock
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/1e9c6565-6a14-4cb3-834e-8d7f5d273927)
-- Update the stock item
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/1529a9a7-19a3-4381-ac58-29dbc55229d9)
-- Sample Email for order placed
-<img width="404" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/cb60c616-c32c-42eb-abe5-494d8574c09a">
+![admin add product](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/f0dceb08-09b0-4f58-921e-cc61c1b7470a)
+![update product](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/45c2874f-87bf-4b94-bd30-26e30c871460)
+![admin orders](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/01cb0516-7e41-443a-98e9-3c93eaec9e14)
+![admin home page](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/b70cd928-5a69-4a0a-84c1-16fea419b966)
 
-- Class Diagram
-<img width="589" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
+
+- Sample Email for order placed
+![order on the way to be diliver](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/275d70f5-2156-4c31-831d-cd35426da21e)
+![order placed email](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/d0717da2-1842-43e2-87d7-c42a6a1d75fb)
+
+
+- ERD Diagram
+
+![ERD primeEats jpe new colored](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/8fb15d15-85ac-4e28-969e-dfb827290599)
+
+- Usecase Diagram
+![Use Case PrimeEats](https://github.com/SumitJadhav02/PRIMEEATS-EXCLUSIVE-DINING-SOLUTIONS-FOR-YOUR-HOTEL/assets/97884583/b35c4eca-965e-420e-a356-98651ef01ecd)
 
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Sumit Jadhav</b>
 
 
