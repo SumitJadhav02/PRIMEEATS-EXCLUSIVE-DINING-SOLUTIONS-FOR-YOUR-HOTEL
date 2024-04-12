@@ -1,15 +1,15 @@
 
 #### Some Screenshots for the project:
 - Home Page
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/6161fb90-ac83-445d-9fb2-56681f6a52b4)
+
 - Login Page
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/c5451416-a669-4d76-ad84-9b8ea26bf6b4)
+
 - Register Page
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/19f06ec9-70aa-4700-8846-a2e6514d88c2)
+
 - Category Wise Product Filter
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/757e552c-1526-4142-869b-ffbf27a232e0)
+
 - Cart Items
-![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/12963112-1276-49ca-8b9c-f3272c6b9b7b)
+
 - Credit Card Payment
 ![image](https://github.com/shashirajraja/shopping-cart/assets/34605595/990595ce-856c-46fe-8182-052a127d67b4)
 - Order Details & Status
